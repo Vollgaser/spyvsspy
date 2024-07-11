@@ -73,3 +73,4 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 Content/__ExternalActors__/Maps/TestingMaps/LevelDesignPrototyping1/9/JA/G3CIT6SJ7H97J3517M9O8T.uasset
+spys.uproject
