@@ -1,3 +1,11 @@
+
+
+# Putting this here in order to freely use code appearance plugins without affect the project
+# WARNING, ON FINAL TESTS FOR LAUNCH REMOVE THIS GITIGNORE BELOW
+spys.uproject
+
+
+
 # Visual Studio 2015 user specific files
 .vs/
 
